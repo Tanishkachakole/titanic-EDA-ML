@@ -38,4 +38,4 @@ This project analyzes the Titanic dataset to understand survival factors and app
 The project demonstrates how EDA combined with classification models can provide meaningful insights into survival prediction. Logistic Regression and Random Forest provided stable baseline models. Future work could include feature engineering and advanced ensemble methods.  
 
 ---
-#Thank you
+# Thank you
