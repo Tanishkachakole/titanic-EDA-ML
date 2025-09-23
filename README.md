@@ -4,7 +4,7 @@
 This project analyzes the Titanic dataset to understand survival factors and applies machine learning models to predict passenger survival.
 
 ## 📌 Steps Covered
-Data Cleaning & Preprocessing  
+1.Data Cleaning & Preprocessing  
    - Handling missing values (Age → median, Cabin → dropped, Embarked → mode)  
    - Encoding categorical variables (Sex, Embarked)  
 
@@ -38,3 +38,4 @@ Data Cleaning & Preprocessing
 The project demonstrates how EDA combined with classification models can provide meaningful insights into survival prediction. Logistic Regression and Random Forest provided stable baseline models. Future work could include feature engineering and advanced ensemble methods.  
 
 ---
+# Thank you
