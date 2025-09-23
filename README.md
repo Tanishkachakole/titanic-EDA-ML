@@ -1,5 +1,5 @@
 
-# Titanic servial prediction 🚢
+Titanic survial prediction 🚢
 
 This project analyzes the Titanic dataset to understand survival factors and applies machine learning models to predict passenger survival.
 
