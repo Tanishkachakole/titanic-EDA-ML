@@ -1,7 +1,8 @@
 
 # Titanic survial prediction 🚢
 
-This project analyzes the Titanic dataset to understand survival factors and applies machine learning models to predict passenger survival.
+This project analyzes the Titanic dataset to understand survival factors and applies machine learning models to predict
+ passenger survival.
 
 ## 📌 Steps Covered
 1. Data Cleaning & Preprocessing  
